@@ -163,7 +163,7 @@ Mumbai-House-Price-Analysis/
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 * Identified premium and affordable localities in Mumbai.
 * Compared house prices across different regions.
@@ -191,4 +191,4 @@ MCA Student | Data Analytics Enthusiast
 
 ---
 
-## ⭐ If you found this project useful, please consider giving it a Star on GitHub!
+##  If you found this project useful, please consider giving it a Star on GitHub!
