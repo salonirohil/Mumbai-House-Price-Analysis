@@ -139,7 +139,7 @@ The dashboard contains:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Mumbai-House-Price-Analysis/
@@ -174,7 +174,7 @@ Mumbai-House-Price-Analysis/
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add latitude and longitude for interactive map visualization.
 * Deploy the machine learning model as a web application using Streamlit or Flask.
@@ -183,7 +183,7 @@ Mumbai-House-Price-Analysis/
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Saloni**
 
